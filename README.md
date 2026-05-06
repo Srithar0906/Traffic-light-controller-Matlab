@@ -137,7 +137,7 @@ traff
 ## 📊 Simulation Results
 
 ### Block Diagram — Step Input (Density Step)
-![Block Diagram 1](images/block_diagram_1.jpg)
+![Block Diagram 1](https://github.com/Srithar0906/Traffic-light-controller-Matlab/blob/main/images/block_diagram_1.jpeg)
 
 ### Scope Output — Step Input
 ![Scope Step](images/scope_step_output.jpg)
