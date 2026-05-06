@@ -140,16 +140,16 @@ traff
 ![Block Diagram 1](https://github.com/Srithar0906/Traffic-light-controller-Matlab/blob/main/images/block_diagram_1.jpeg)
 
 ### Scope Output — Step Input
-![Scope Step](images/scope_step_output.jpg)
+![Scope Step](https://github.com/Srithar0906/Traffic-light-controller-Matlab/blob/main/images/scope_step_output.jpeg)
 
 ### Block Diagram — Random Density Input
-![Block Diagram 2](images/block_diagram_2.jpg)
+![Block Diagram 2](https://github.com/Srithar0906/Traffic-light-controller-Matlab/blob/main/images/block_diagram_2.jpeg)
 
 ### Scope Output — Random Density
-![Scope Random](images/scope_random_output.jpg)
+![Scope Random](https://github.com/Srithar0906/Traffic-light-controller-Matlab/blob/main/images/scope_random_output.jpeg)
 
 ### Transfer Function — Step Response
-![Transfer Function](images/transfer_function_graph.jpg)
+![Transfer Function](https://github.com/Srithar0906/Traffic-light-controller-Matlab/blob/main/images/transfer_function_graph.jpeg)
 
 ---
 
